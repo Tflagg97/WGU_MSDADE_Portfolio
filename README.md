@@ -32,17 +32,17 @@ Throughout this program, I have built a strong foundation in data analysis, lear
 
 | Class                                           | Tasks                     | Videos                    | Status      | Date Completed |
 |-------------------------------------------------|---------------------------|---------------------------|-------------|----------------|
-| [Data Analytics Journey](D596%-%The%Data%Analytics%Journey/README.md)                          |                           |                           | Not Started |                |
-| [Data Management](D597%-%Data%Management/README.md)                                 |                           |                           | Not Started |                |
-| [Analytics Programming](D598%-%Analytics%Programming/README.md)                           |                           |                            | Not Started |                |
-| [Data Preparation and Exploration](Data%20Preparation%20and%20Exploration/README.md)                |                           |  | Not Started |                |
-| [Statistical Data Mining](Statistical%20Data%20Mining/README.md)                         |                           |                           | Not Started |                |
-| [Data Storytelling for Diverse Audiences](Data%20Storytelling%20for%20Diverse%20Audiences/README.md)         |                           |                           | Not Started |                |
-| [Deployment](Deployment/README.md)                                      |                           |                           | Not Started |                |
-| [Machine Learning](Machine%20Learning/README.md)                              |                           |                           | Not Started |                |
-| [Advanced Analytics](Advanced%20Analytics/README.md)                              |                           |                           | Not Started |                |
-| [Optimization](Optimization/README.md)                                    |                           |                           | Not Started |                |  
-| [Capstone Project](Capstone%20Project/README.md)                                |                           |                           | Not Started |                |
+| [Data Analytics Journey](D596 - The Data Analytics Journey/README.md)                          |                           |                           | Not Started |                |
+| [Data Management](D597 - Data Management/README.md)                                 |                           |                           | Not Started |                |
+| [Analytics Programming](D598 - Analytics Programming/README.md)                           |                           |                            | Not Started |                |
+| [Data Preparation and Exploration]()                |                           |                           | Not Started |                |
+| [Statistical Data Mining]()                         |                           |                           | Not Started |                |
+| [Data Storytelling for Diverse Audiences]()         |                           |                           | Not Started |                |
+| [Deployment]()                                      |                           |                           | Not Started |                |
+| [Machine Learning]()                            	  |                           |                           | Not Started |                |
+| [Advanced Analytics]()                              |                           |                           | Not Started |                |
+| [Optimization]()                                    |                           |                           | Not Started |                |  
+| [Capstone Project]()                                |                           |                           | Not Started |                |
 
 
 ## Contact 
