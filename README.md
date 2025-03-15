@@ -32,9 +32,9 @@ Throughout this program, I have built a strong foundation in data analysis, lear
 
 | Class                                           | Tasks                     | Videos                    | Status      | Date Completed |
 |-------------------------------------------------|---------------------------|---------------------------|-------------|----------------|
-| [Data Analytics Journey](D596 - The Data Analytics Journey/README.md)                          |                           |                           | Not Started |                |
-| [Data Management](D597 - Data Management/README.md)                                 |                           |                           | Not Started |                |
-| [Analytics Programming](D598 - Analytics Programming/README.md)                           |                           |                            | Not Started |                |
+| [Data Analytics Journey](D596%-%The%Data%Analytics%Journey/README.md)                          |                           |                           | Not Started |                |
+| [Data Management](D597%-%Data%Management/README.md)                                 |                           |                           | Not Started |                |
+| [Analytics Programming](D598%-%Analytics%Programming/README.md)                           |                           |                            | Not Started |                |
 | [Data Preparation and Exploration]()                |                           |                           | Not Started |                |
 | [Statistical Data Mining]()                         |                           |                           | Not Started |                |
 | [Data Storytelling for Diverse Audiences]()         |                           |                           | Not Started |                |
@@ -47,6 +47,6 @@ Throughout this program, I have built a strong foundation in data analysis, lear
 
 ## Contact 
 
-Email: tflagg10@wgu.edu
+Email: Tflagg10@wgu.edu
 
 LinkedIn: www.linkedin.com/in/taylor-flagg
