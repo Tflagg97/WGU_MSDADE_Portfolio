@@ -33,7 +33,7 @@ Throughout this program, I have built a strong foundation in data analysis, lear
 | Class                                           | Tasks                     | Videos                    | Status      | Date Completed |
 |-------------------------------------------------|---------------------------|---------------------------|-------------|----------------|
 | [Data Analytics Journey](D596%-%The%Data%Analytics%Journey/README.md)                          |                           |                           | Not Started |                |
-| [Data Management](D597%-%Data%Management/README.md)                                 |                           | Not Started |                |                |
+| [Data Management](D597%-%Data%Management/README.md)                                 |                           |                           | Not Started |                |
 | [Analytics Programming](D598%-%Analytics%Programming/README.md)                           |                           |                            | Not Started |                |
 | [Data Preparation and Exploration](Data%20Preparation%20and%20Exploration/README.md)                |                           |  | Not Started |                |
 | [Statistical Data Mining](Statistical%20Data%20Mining/README.md)                         |                           |                           | Not Started |                |
